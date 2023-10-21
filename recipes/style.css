@@ -1,0 +1,43 @@
+*{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+body{
+    background: #52f14d;
+    font-family: sans-serif;
+    margin-top: 0;
+    border: 5px solid rgb(4, 181, 230);
+    border-radius: 30px;
+}
+
+.box{
+    text-align: center;
+ ;
+    border-radius: 10px;
+    margin: 30px 30px;
+}
+
+.image{
+    border: 1px solid rgb(4, 181, 230);
+    border-radius: 30px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.food{
+    border: 1px solid  rgb(4, 181, 230);
+    border-radius: 30px;
+    padding: 20px;
+    text-decoration: none;    
+    margin: 30px;
+    text-align: left;
+    background-color: rgb(40, 235, 19);
+}
+
+#line{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    color: rgb(16, 100, 169);
+}
